@@ -3,9 +3,7 @@
 An interactive and responsive web application that allows users to upload their official Instagram data export (JSON format) and instantly discover who does not follow them back.
 
 This project is designed to be safe, privacy-focused, and deployable on Vercel using a modern frontend with a Python backend (serverless or Flask-based).
-
 ---
-
 🚀 Live Features
 
 - 📂 Upload Instagram JSON files securely
