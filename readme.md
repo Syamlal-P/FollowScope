@@ -7,7 +7,6 @@ This project is designed to be safe, privacy-focused, and deployable on Vercel u
 🚀 Live Features
 
 
-
 - 📂 Upload Instagram JSON files securely
 - 🔍 Automatically detects multiple Instagram data formats
 - 📊 Displays:
