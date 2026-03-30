@@ -4,13 +4,7 @@ An interactive and responsive web application that allows users to upload their 
 
 This project is designed to be safe, privacy-focused, and deployable on Vercel using a modern frontend with a Python backend (serverless or Flask-based).
 ---
-🚀 Live Features
-
-
-
-
-
-
+🚀 Live Featu
 
 
 - 📂 Upload Instagram JSON files securely
